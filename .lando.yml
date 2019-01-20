@@ -1,4 +1,4 @@
-name: controle-contas
+name: your_project_name
 recipe: lamp
 config:
   webroot: .
