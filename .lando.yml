@@ -1,0 +1,7 @@
+name: controle-contas
+recipe: lamp
+config:
+  webroot: .
+  xdebug: true
+  conf:
+    php: .vscode/php.ini
